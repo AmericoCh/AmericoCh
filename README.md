@@ -27,12 +27,15 @@ My academic interests lie at the interseccion of Applied Mathematics and Compute
 - Numerical Methods
 
 ## Languages and Tools
+![Mathematics](https://img.shields.io/badge/Applied-Mathematics-red)
 ![C++](https://img.shields.io/badge/C%2B%2B-Programming-blue)
 ![Python](https://img.shields.io/badge/Python-Programming-yellow)
 ![Julia](https://img.shields.io/badge/Julia-Scientific_Computing-purple)
 ![Gurobi](https://img.shields.io/badge/Solver-Gurobi-orange)
 ![MOSEK](https://img.shields.io/badge/Solver-MOSEK-blue)
-![Mathematics](https://img.shields.io/badge/Applied-Mathematics-red)
+![JuMP](https://img.shields.io/badge/JuMP-Julia%20Optimization-green)
+![CPLEX](https://img.shields.io/badge/Solver-CPLEX-red)
+
 
 
 
