@@ -1,31 +1,47 @@
-### Hi there 👋
+# Academic Profile
 
-😀 
+I am a university professor teaching courses in Mathematics and Computer Science, with a focus on developing strong analytical and computational skills in students. My teaching spans areas such as programming, algorithms, scientific computing and mathematical foundations for engineering and science.
 
-- 🔭 I’m currently working on robust optimization and algorithms
-- 🌱 I’m currently learning  programming languajes 
-- 👯 I’m looking to collaborate on optimization, AI, web developpers
-- 🤔 I’m looking for help with approximations algorithms
-- 💬 Ask me about maths
+My academic interests lie at the interseccion of Applied Mathematics and Computer Science, particularly in numerical methods, scienctific computing and algorithmic problem solving.
 
 
 
+## Teaching Areas
+- Introduction to Computing
+- Programming Fundamentals
+- Computacional Mathematics
+- Discrete Mathematics
+- Linear Algebra
+- Diferential Calculus
+- Multivariable Calculus
+
+## Teaching Repositories
+- Introduction to Computing
+- Programming Fundamentals
+- Scientific Computing with Julia
+
+## Research Interests
+- Optimization
+- Algorithms
+- Scientific Computing
+- Numerical Methods
+
+## Languages and Tools
+![C++](https://img.shields.io/badge/C%2B%2B-Programming-blue)
+![Julia](https://img.shields.io/badge/Julia-Scientific_Computing-purple)
+![Python](https://img.shields.io/badge/Python-Programming-yellow)
+![Mathematics](https://img.shields.io/badge/Applied-Mathematics-red)
 
 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+</p>
 
 <!--
 **AmericoCh/AmericoCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on algorithms
-- 🌱 I’m currently learning  programming languajes 
-- 👯 I’m looking to collaborate on optimizatión, AI, web developpers
-- 🤔 I’m looking for help with approximations algorithms
-- 💬 Ask me about maths
-- 📫 How to reach me: achulluncuy@
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
