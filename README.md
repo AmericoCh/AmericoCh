@@ -28,18 +28,23 @@ My academic interests lie at the interseccion of Applied Mathematics and Compute
 
 ## Languages and Tools
 ![C++](https://img.shields.io/badge/C%2B%2B-Programming-blue)
-![Julia](https://img.shields.io/badge/Julia-Scientific_Computing-purple)
 ![Python](https://img.shields.io/badge/Python-Programming-yellow)
+![Julia](https://img.shields.io/badge/Julia-Scientific_Computing-purple)
+![Gurobi](https://img.shields.io/badge/Gurobi-Optimization-orange)
+![Gurobi](https://img.shields.io/badge/Solver-Gurobi-orange)
+![MOSEK](https://img.shields.io/badge/Solver-MOSEK-blue)
 ![Mathematics](https://img.shields.io/badge/Applied-Mathematics-red)
 
 
+
+
+<!--
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 </p>
 
-<!--
 **AmericoCh/AmericoCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
